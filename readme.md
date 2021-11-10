@@ -7,3 +7,5 @@
 ## Day 18 - Turtle Drawing
 
 ## Day 19 - Turtle Race
+
+## Day 20 - Snake Game

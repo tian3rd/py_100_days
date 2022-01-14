@@ -13,3 +13,7 @@ The 100 Days of CODE challenge is following a path specified in the [course syll
 ## Day 20 - Snake Game
 
 ## Day 21 - Improve Snake Game
+
+## Day 25 - Working with CSV and Pandas
+
+## Day 26 - List/Dict Comprehension

@@ -19,3 +19,9 @@ The 100 Days of CODE challenge is following a path specified in the [course syll
 ## Day 26 - List/Dict Comprehension
 
 ## Day 27 - Tkinter, \*args, \*\*kwargs
+
+## Day 28 - Pomodoro Timer
+
+## Day 29 - Simple Password Manager
+
+## Day 30 - Password Manager with More Features

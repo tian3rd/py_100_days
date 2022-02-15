@@ -106,4 +106,9 @@ for item in fruits:
     listbox.insert(fruits.index(item), item)
 listbox.bind("<<ListboxSelect>>", listbox_used)
 listbox.pack()
+
+from tkinter.simpledialog import askstring
+# simple dialog
+name = askstring('Name', 'Enter your name')
+
 window.mainloop()
